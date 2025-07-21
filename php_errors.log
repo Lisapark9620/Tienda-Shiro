@@ -1,0 +1,527 @@
+[16-Jul-2025 05:00:20 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[16-Jul-2025 05:00:21 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[16-Jul-2025 05:00:21 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[16-Jul-2025 05:00:21 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[16-Jul-2025 05:00:21 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[16-Jul-2025 05:00:22 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[16-Jul-2025 05:00:22 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[16-Jul-2025 05:00:26 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[17-Jul-2025 03:37:01 America/Mexico_City] Error al eliminar producto 3: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 03:37:04 America/Mexico_City] Error al eliminar producto 1: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 03:44:27 America/Mexico_City] Error al eliminar producto 1: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 03:44:29 America/Mexico_City] Error al eliminar producto 1: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 03:44:32 America/Mexico_City] Error al eliminar producto 1: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 03:44:32 America/Mexico_City] Error al eliminar producto 1: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 03:44:40 America/Mexico_City] Error al eliminar producto 1: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 03:56:36 America/Mexico_City] Error al eliminar producto 2: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 04:02:21 America/Mexico_City] Error al eliminar producto 2: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 04:02:24 America/Mexico_City] Error al eliminar producto 3: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 04:02:28 America/Mexico_City] Error al eliminar producto 3: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 04:02:31 America/Mexico_City] Error al eliminar producto 4: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_39279617_tiendaonline1.carrito' doesn't exist
+[17-Jul-2025 05:00:09 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[17-Jul-2025 05:00:14 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[17-Jul-2025 05:00:18 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[17-Jul-2025 05:00:19 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[17-Jul-2025 05:00:20 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[17-Jul-2025 05:00:20 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[17-Jul-2025 05:00:20 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] Connection refused
+[19-Jul-2025 03:03:54 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql310.infinityfree.com failed: Host desconocido. 
+[19-Jul-2025 03:22:57 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[19-Jul-2025 03:22:58 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[19-Jul-2025 03:22:58 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[19-Jul-2025 03:22:59 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[19-Jul-2025 03:22:59 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[19-Jul-2025 03:23:05 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[19-Jul-2025 03:23:47 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[19-Jul-2025 03:27:45 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[19-Jul-2025 03:30:22 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [1045] Access denied for user 'host'@'localhost' (using password: NO)
+[19-Jul-2025 03:30:23 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [1045] Access denied for user 'host'@'localhost' (using password: NO)
+[19-Jul-2025 03:30:23 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [1045] Access denied for user 'host'@'localhost' (using password: NO)
+[19-Jul-2025 03:54:51 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 03:54:51 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 03:54:51 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 03:57:11 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 03:57:11 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 03:57:11 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 04:30:41 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:298
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(298): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 298
+[19-Jul-2025 04:31:08 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:298
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(298): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 298
+[19-Jul-2025 04:32:22 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:298
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(298): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 298
+[19-Jul-2025 04:32:30 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:298
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(298): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 298
+[19-Jul-2025 04:32:35 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:298
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(298): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 298
+[19-Jul-2025 04:43:45 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:298
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(298): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 298
+[19-Jul-2025 05:04:32 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:298
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(298): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 298
+[19-Jul-2025 05:09:33 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:242
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(242): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 242
+[19-Jul-2025 05:09:52 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:242
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(242): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 242
+[19-Jul-2025 05:11:18 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:243
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(243): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 243
+[19-Jul-2025 05:12:19 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:243
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(243): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 243
+[19-Jul-2025 05:12:51 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:243
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(243): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 243
+[19-Jul-2025 05:14:29 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:247
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(247): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 247
+[19-Jul-2025 05:15:21 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:16:04 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:22:47 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:22:54 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:23:02 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:23:06 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:23:54 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:245
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(245): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 245
+[19-Jul-2025 05:24:05 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:245
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(245): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 245
+[19-Jul-2025 05:24:06 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:245
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(245): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 245
+[19-Jul-2025 05:24:09 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:245
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(245): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 245
+[19-Jul-2025 05:24:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:245
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(245): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 245
+[19-Jul-2025 05:24:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:245
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(245): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 245
+[19-Jul-2025 05:24:11 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:245
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(245): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 245
+[19-Jul-2025 05:24:22 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:30:29 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:33:19 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:35:48 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:246
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(246): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 246
+[19-Jul-2025 05:36:01 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:38:21 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:38:43 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:39:36 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:41:24 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:44:11 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:44:12 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:46:03 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:51:27 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 05:55:18 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 06:14:06 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:252
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(252): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 252
+[19-Jul-2025 06:14:50 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:15:02 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:15:32 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:16:31 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:16:39 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:16:42 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:16:46 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:17:59 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:18:01 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:18:03 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:18:05 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:18:08 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:18:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:18:13 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:19:45 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:19:53 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:20:03 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:20:54 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:20:59 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:21:13 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 11
+[19-Jul-2025 06:21:13 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 12
+[19-Jul-2025 06:21:13 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 13
+[19-Jul-2025 06:21:17 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:22:06 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:22:52 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:30:07 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 10
+[19-Jul-2025 06:30:07 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 11
+[19-Jul-2025 06:30:07 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 12
+[19-Jul-2025 06:30:09 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:30:14 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:30:28 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:30:33 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:30:37 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:31:04 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:31:22 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:34:10 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 10
+[19-Jul-2025 06:34:10 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 11
+[19-Jul-2025 06:34:10 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 12
+[19-Jul-2025 06:34:13 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 10
+[19-Jul-2025 06:34:13 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 11
+[19-Jul-2025 06:34:13 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 12
+[19-Jul-2025 06:34:15 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:34:19 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:36:48 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:36:52 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:38:26 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:38:42 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:39:22 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 10
+[19-Jul-2025 06:39:22 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 11
+[19-Jul-2025 06:39:22 America/Mexico_City] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\con error\tiendaphp\editar_perfil.php on line 12
+[19-Jul-2025 06:39:30 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 06:44:27 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\index.php:322
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\index.php(322): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\index.php on line 322
+[19-Jul-2025 06:44:35 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\index.php:322
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\index.php(322): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\index.php on line 322
+[19-Jul-2025 06:51:18 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 07:03:34 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'order clause' in C:\xampp\htdocs\con error\tiendaphp\perfil.php:264
+Stack trace:
+#0 C:\xampp\htdocs\con error\tiendaphp\perfil.php(264): PDO->prepare('SELECT * FROM p...')
+#1 {main}
+  thrown in C:\xampp\htdocs\con error\tiendaphp\perfil.php on line 264
+[19-Jul-2025 07:42:27 America/Mexico_City] Error en recuperación: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token_recuperacion' in 'field list'
+[19-Jul-2025 07:42:33 America/Mexico_City] Error en recuperación: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token_recuperacion' in 'field list'
+[19-Jul-2025 07:44:17 America/Mexico_City] Error en recuperación: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token_recuperacion' in 'field list'
+[19-Jul-2025 07:44:21 America/Mexico_City] Error en recuperación: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token_recuperacion' in 'field list'
+[19-Jul-2025 07:54:56 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 07:54:56 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 07:54:56 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:01:49 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:01:49 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:01:49 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:01:58 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:01:58 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:01:58 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:02:12 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:02:12 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:02:12 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:05:31 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:05:31 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:05:31 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:05:31 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:05:31 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:05:31 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:05:50 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:05:50 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:05:50 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:08:27 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:08:27 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:08:27 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:08:34 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:08:34 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:08:34 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:09:26 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:09:26 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:09:26 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:10:57 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:10:57 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:10:57 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:13:11 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:13:11 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:13:11 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:13:37 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 19
+[19-Jul-2025 08:13:37 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 20
+[19-Jul-2025 08:13:37 America/Mexico_City] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\con error\tiendaphp\config.php on line 21
+[19-Jul-2025 08:19:11 America/Mexico_City] Error de conexión: SQLSTATE[HY000] [2002] No such file or directory
+[21-Jul-2025 04:54:00 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 04:54:01 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 04:54:13 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 04:57:30 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 04:59:34 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:00:43 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:01:53 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:16:21 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:16:23 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:16:24 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:16:31 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:19:08 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:19:09 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:19:21 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:21:19 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:21:20 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:21:22 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
+[21-Jul-2025 05:21:22 America/Mexico_City] Error al obtener pedidos: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_pedido' in 'ORDER BY'
