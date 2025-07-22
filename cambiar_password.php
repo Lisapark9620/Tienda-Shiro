@@ -50,7 +50,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         } else {
             try {
                 $hashed_password = password_hash($nueva_password, PASSWORD_DEFAULT);
-                $stmt = $conn->prepare("UPDATE usuarios SET password = ?, ultimo_cambio_pass = NOW() WHERE id_usuario = ?");
+               $stmt = $conn->prepare("UPDATE usuarios SET password = ? WHERE id_usuario = ?");
                 $stmt->execute([$hashed_password, $usuario['id_usuario']]);
                 
                 $_SESSION['usuario']['password'] = $hashed_password;
