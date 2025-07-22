@@ -594,12 +594,6 @@ if (isset($_GET['eliminar'])) {
         }
     });
 
-    // Permitir hacer clic en cualquier parte del label
-    document.querySelector('.file-input-label').addEventListener('click', function(e) {
-        if (e.target.tagName !== 'INPUT') {
-            document.getElementById('imagen').click();
-        }
-    });
     
     // Confirmación antes de eliminar
     document.querySelectorAll('.btn-danger-admin').forEach(btn => {
